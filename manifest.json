@@ -1,0 +1,10 @@
+{
+	"id": "word-heatmap",
+	"name": "字数热力图 (Word Heatmap)",
+	"version": "0.1.1",
+	"minAppVersion": "1.0.0",
+	"description": "以 GitHub 风格热力图展示每日写作字数，实时统计中文字符和英文单词。Track daily writing with a GitHub-style heatmap.",
+	"author": "",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
