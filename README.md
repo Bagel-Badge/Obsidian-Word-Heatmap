@@ -4,8 +4,6 @@
 >
 > A GitHub-style contribution heatmap for your daily writing in Obsidian.
 
-![热力图预览](attachment/preview.png)
-
 ## 功能
 
 - **实时统计**：输入一个字即计入当天，删除一个字即减去，精确追踪每日写作量
@@ -119,8 +117,10 @@ npm run build  # 生产构建
 
 ## 致谢
 
-项目思路来自于 [obsidian-daily-heatmap](https://github.com/deutdrsium/obsidian-daily-heatmap)
-
-热力图渲染层参考了 [obsidian-contribution-graph](https://github.com/vran-dev/obsidian-contribution-graph) 的实现。
+项目思路及部分实现参考了 [obsidian-daily-heatmap](https://github.com/deutdrsium/obsidian-daily-heatmap)和[obsidian-contribution-graph](https://github.com/vran-dev/obsidian-contribution-graph)。
 
 代码由 Claude 4.7 Opus 辅助生成。
+
+## 许可协议
+
+本项目基于 [Apache License 2.0](LICENSE) 开源。
